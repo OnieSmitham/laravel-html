@@ -19,3 +19,4 @@
     <junit outputFile="build/report.junit.xml"/>
   </logging>
 </phpunit>
+ 
