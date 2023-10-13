@@ -1,4 +1,4 @@
-# The MIT License (MIT)
+#!The MIT License (MIT)
 
 Copyright (c) Spatie bvba <info@spatie.be>
 
@@ -19,3 +19,4 @@ Copyright (c) Spatie bvba <info@spatie.be>
 > LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 > OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 > THE SOFTWARE.
+ 
